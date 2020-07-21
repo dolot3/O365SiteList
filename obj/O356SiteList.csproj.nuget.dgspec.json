@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_work\\tests\\ThreeWill\\Temp1\\O356SiteList\\O356SiteList.csproj": {}
+    "C:\\_work\\tests\\ThreeWill\\O365SiteList\\O356SiteList.csproj": {}
   },
   "projects": {
-    "C:\\_work\\tests\\ThreeWill\\Temp1\\O356SiteList\\O356SiteList.csproj": {
+    "C:\\_work\\tests\\ThreeWill\\O365SiteList\\O356SiteList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_work\\tests\\ThreeWill\\Temp1\\O356SiteList\\O356SiteList.csproj",
+        "projectUniqueName": "C:\\_work\\tests\\ThreeWill\\O365SiteList\\O356SiteList.csproj",
         "projectName": "O356SiteList",
-        "projectPath": "C:\\_work\\tests\\ThreeWill\\Temp1\\O356SiteList\\O356SiteList.csproj",
+        "projectPath": "C:\\_work\\tests\\ThreeWill\\O365SiteList\\O356SiteList.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\_work\\tests\\ThreeWill\\Temp1\\O356SiteList\\obj\\",
+        "outputPath": "C:\\_work\\tests\\ThreeWill\\O365SiteList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

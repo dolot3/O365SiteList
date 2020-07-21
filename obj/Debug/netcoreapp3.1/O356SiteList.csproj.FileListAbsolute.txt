@@ -1,0 +1,4 @@
+C:\_work\tests\ThreeWill\O365SiteList\bin\Debug\netcoreapp3.1\O356SiteList.exe
+C:\_work\tests\ThreeWill\O365SiteList\obj\Debug\netcoreapp3.1\O356SiteList.csprojAssemblyReference.cache
+C:\_work\tests\ThreeWill\O365SiteList\obj\Debug\netcoreapp3.1\O356SiteList.AssemblyInfoInputs.cache
+C:\_work\tests\ThreeWill\O365SiteList\obj\Debug\netcoreapp3.1\O356SiteList.AssemblyInfo.cs
